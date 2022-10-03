@@ -54,13 +54,3 @@ int m = getIntValue(Console.ReadLine(), 'M');
 Console.Write("Введите N: ");
 int n = getEndValue(m, getIntValue(Console.ReadLine(), 'N'));
 getSumMN(m,n);
-
-
-
-
-
-
-
-
-
-

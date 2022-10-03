@@ -47,7 +47,5 @@ int AkkermanFunc(int m, int n)
 }
 
 
-
-
 Console.WriteLine("Переменые функции Аккермана: M и N - целые положительные числа");
 Console.WriteLine(AkkermanFunc(getCorrectValue('M'), getCorrectValue('N')));
